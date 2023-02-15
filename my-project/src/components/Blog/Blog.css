@@ -1,0 +1,19 @@
+.blog-area {
+  padding: 60px 0;
+}
+.Single-blog {
+  border: 1px solid #ededed;
+  border-radius: 6px;
+  margin-bottom: 30px;
+  padding: 15px;
+}
+.Single-blog h4 {
+  font-size: 19px;
+  margin-bottom: 15px;
+}
+.Single-blog p {
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}

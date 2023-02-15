@@ -1,0 +1,13 @@
+.footer-area {
+  padding: 40px 0;
+  background-color: #212529;
+}
+.logo {
+  text-align: center;
+}
+.text {
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  margin-top: 16px;
+}

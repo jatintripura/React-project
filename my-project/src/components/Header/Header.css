@@ -1,0 +1,25 @@
+.myheader .navbar-nav .nav-link {
+  margin: 0 15px;
+  padding: 5px 0 !important;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+
+.myheader .navbar-nav a:last-child {
+  background-color: #7952b3;
+  border: 1px solid #7952b3;
+  color: #fff;
+  padding: 6px 40px !important;
+  border-radius: 5px;
+  margin: 0 0;
+  transition: 0.3s ease-in-out;
+  text-align: center;
+  display: inline-block;
+}
+.myheader .navbar-nav a:last-child:hover {
+  background-color: transparent !important;
+  color: #7952b3 !important;
+}

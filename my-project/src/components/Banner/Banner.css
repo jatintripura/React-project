@@ -1,0 +1,36 @@
+.banner {
+  background: url(https://images.unsplash.com/photo-1519680772-3b6b8b5f5f0d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=3b8b8b5f5f0d&auto=format&fit=crop&w=1350&q=80)
+    no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+  position: relative;
+  width: 100%;
+}
+.banner-btn {
+  background-color: #7952b3;
+  border: 1px solid #7952b3;
+  border-radius: 6px;
+  color: #fff !important;
+  font-size: 12px;
+  padding: 12px 25px;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: 0.3s;
+  display: inline-block;
+}
+
+.banner-btn:hover {
+  background-color: transparent;
+  border: 1px solid #fff;
+}
+
+.carousel-caption {
+  margin-bottom: 55px;
+  padding-bottom: 1.25rem;
+}
+.carousel-caption h4 {
+  font-size: 1.15rem !important;
+}
+.carousel-caption h2 {
+  font-size: 42px !important;
+}
